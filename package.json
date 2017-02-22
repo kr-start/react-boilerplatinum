@@ -27,7 +27,7 @@
     "webpack"
   ],
   "dependencies": {
-    "autoprefixer": "~6.7.0",
+    "autoprefixer": "~6.7.5",
     "babel-core": "~6.23.1",
     "babel-loader": "~6.3.0",
     "babel-plugin-transform-object-rest-spread": "~6.23.0",
